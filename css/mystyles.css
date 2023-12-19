@@ -1,0 +1,58 @@
+a{
+    margin-right: 25px;
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+img{
+    display: block;
+    width: 50%;
+    margin: auto;
+    border-bottom: 3px solid darkgreen;
+    border-radius: 50%;
+    box-shadow: 15px 15px 10px darkgreen;
+}
+table{
+    border: 1px solid darkgreen;
+    border-collapse: collapse;
+}
+td{
+   border: 1px solid darkgreen;
+   padding: 5px 15px; 
+}
+td{
+    border: 1px solid maroon;
+    padding: 5px;
+}
+tr:nth-child(odd){
+    background-color: yellow;
+}
+h1{
+    background-color: green;
+    border-bottom: solid 10px gold;
+    padding: 20px;
+    font-size: 25px;
+}
+body{
+    background-color: greenyellow;
+}
+a{
+    margin-right: 25px;
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    justify-content:space-between;
+  
+}
+a:hover{
+    background-color: aquamarine;
+    color: black;
+    padding:10px;
+}
+h2{
+    font-size: 30px;
+}
